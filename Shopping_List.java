@@ -1,12 +1,3 @@
-/*William Figueroa
-Prof. F. Aljamal
-CSC-117-02
-Due Date: 2/18/20
-
-Write a java porgram which asks the user to enter 5 items (shopping list).
-Each item has a naem a a price.
-Calculate the overall sales tax, assuming the State tax percentage is 7%.*/
-
 import java.util.Scanner;
 
 public class Shopping_List
